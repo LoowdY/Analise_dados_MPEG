@@ -1,16 +1,29 @@
-# Analise_dados_MPEG
-O seguinte projeto foi feito com
+# Projeto de Análise de Dados MPEG
 
-1 - João Renan Santanna Lopes
-2 - Jefferson Figueiredo Dantas
-3 - João Matheus Severino 
+Este projeto foi desenvolvido por:
 
-Etapas:
+- João Renan Santanna Lopes
+- Jefferson Figueiredo Dantas
+- João Matheus Severino
 
-1 -  Tratamento dos dados da base de dados (occurrence.csv): Utilizou-se o google Colab e Jupyter jutamente com Python e Pandas para o tratamento;
-2 - Criação, normalização, desenvolviemento de Views e Triggers para o banco de dados: fez-se uso do pyhton para criação, manipulação e conexão com banco de dados PostgreSQL;
-3 - Criação de Dashboard: fez-se uso do Grafana para criação e conexão com o banco de dados criado e tratado.
+## Etapas do Projeto
 
-Uma pré-visualização do Dashboard pode ser verificada abaixo:
+1. **Tratamento dos Dados da Base de Dados (occurrence.csv)**: 
+   - Ferramentas Utilizadas: Google Colab e Jupyter
+   - Linguagens e Bibliotecas: Python e Pandas
+   - Descrição: O tratamento dos dados foi realizado utilizando Python e Pandas no ambiente Google Colab e Jupyter.
 
-![imagem dashboard](./print_dashboard_grafana_museu)
+2. **Criação, Normalização, Desenvolvimento de Views e Triggers para o Banco de Dados**:
+   - Ferramentas Utilizadas: Python
+   - Banco de Dados: PostgreSQL
+   - Descrição: Utilizou-se Python para a criação, manipulação e conexão com o banco de dados PostgreSQL, incluindo a normalização, desenvolvimento de views e triggers.
+
+3. **Criação de Dashboard**:
+   - Ferramenta Utilizada: Grafana
+   - Descrição: O Dashboard foi criado utilizando o Grafana, conectando-se ao banco de dados previamente tratado e configurado.
+
+## Pré-visualização do Dashboard
+
+Abaixo está uma pré-visualização do Dashboard criado no Grafana para o projeto:
+
+![Imagem Dashboard](./print_dashboard_grafana_museu)
