@@ -26,4 +26,4 @@ Este projeto foi desenvolvido por:
 
 Abaixo está uma pré-visualização do Dashboard criado no Grafana para o projeto:
 
-![Imagem Dashboard](./print_dashboard_grafana_museu)
+![Imagem Dashboard](./print_dashboard_grafana_museu.png)
